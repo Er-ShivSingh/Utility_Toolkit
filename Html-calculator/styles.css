@@ -1,0 +1,26 @@
+button {
+  width: 80;
+  height: 80;
+  border: solid;
+  font-size: 25;
+}
+
+.textinput {
+  width: 335;
+  height: 50;
+  font-size: 25;
+  color: #acb5af;
+  border: solid;
+}
+
+.main {
+  position: absolute;
+  border: solid 4px;
+  background: linear-gradient(green, red);
+}
+body{
+  background-color: aquamarine;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
